@@ -1,6 +1,6 @@
 # ImageSpider
 ## Objective
-- Retrieve a large number of images from the internet by employing multi-tasking technique to accelerate the processing time.
+- Retrieve a large number of images from the internet and employ multi-tasking technique to accelerate the processing time.
 
 ## Discription
 The final crawler programs are in `Demo` Folder
